@@ -56,7 +56,7 @@ Algoritmos de Pesquisa
   5. Pilhas
   A pilha segue a estrutura LIFO (Last In, First Out), ou seja, o último paciente a ser empilhado será o primeiro a ser desempilhado.
 
-##Como Usar
+## Como Usar
 ```csharp
 Escolha uma opção no menu principal:
 
