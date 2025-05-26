@@ -1,9 +1,9 @@
 # AtendimentoMedico_Estruturas
 
-##Sistema de Atendimento Médico - Estruturas de Dados
+## Sistema de Atendimento Médico - Estruturas de Dados
 Este programa simula o gerenciamento de pacientes utilizando diversas estruturas de dados comuns em programação, como vetores, matrizes, listas, filas, pilhas e algoritmos de pesquisa. O objetivo principal é fornecer uma interface simples para interagir com essas estruturas e realizar operações como inserção, remoção, busca e exibição de pacientes.
 
-##Funcionalidades
+## Funcionalidades
 O programa oferece as seguintes funcionalidades:
 
 Trabalhar com Vetores
@@ -40,7 +40,7 @@ Algoritmos de Pesquisa
   - Pesquisa Sequencial: Percorre o vetor em busca de um paciente.
   - Pesquisa Binária: Realiza uma busca otimizada em um vetor ordenado, buscando o paciente por ID.
 
-##Estruturas de Dados Utilizadas
+## Estruturas de Dados Utilizadas
   1. Vetores
   O vetor armazena pacientes de maneira sequencial, permitindo que operações de inserção e remoção sejam feitas de forma eficiente até o limite do vetor.
 
@@ -57,7 +57,7 @@ Algoritmos de Pesquisa
   A pilha segue a estrutura LIFO (Last In, First Out), ou seja, o último paciente a ser empilhado será o primeiro a ser desempilhado.
 
 ##Como Usar
-''C#
+```csharp
 Escolha uma opção no menu principal:
 
 1: Trabalhar com Vetores
@@ -73,7 +73,7 @@ Escolha uma opção no menu principal:
 6: Algoritmos de Pesquisa (Binária e Sequencial)
 
 0: Sair
-''
+```
 
 Dentro de cada estrutura de dados, você poderá realizar as seguintes operações:
   - Inserir paciente (informe o ID e nome).
@@ -81,10 +81,10 @@ Dentro de cada estrutura de dados, você poderá realizar as seguintes operaçõ
   - Buscar paciente por ID.
   - Exibir todos os pacientes da estrutura selecionada.
 
-##Algoritmos de Pesquisa:
+## Algoritmos de Pesquisa:
 Para realizar a pesquisa binária ou sequencial, você pode escolher a opção 6 no menu principal e informar o ID do paciente desejado.
 
-#Exemplo de Uso
+# Exemplo de Uso
 
 === Atendimento Médico ===
 1. Trabalhar com Vetores
@@ -109,7 +109,7 @@ Paciente inserido com sucesso.
 
 Pressione qualquer tecla para continuar...
 
-##Funções Auxiliares
+## Funções Auxiliares
 
   LerPaciente()
 Esta função é utilizada para coletar os dados do paciente (ID e nome) a partir do console, sendo usada em todas as opções que envolvem inserção de pacientes.
@@ -120,7 +120,7 @@ Esta função é usada para garantir que o número inserido seja válido e posit
   Pausar()
 Após a execução de cada operação, o programa exibe a mensagem "Pressione qualquer tecla para continuar..." para permitir que o usuário veja os resultados antes de retornar ao menu.
 
-  Requisitos
+##  Requisitos
 .NET Core ou .NET Framework para compilar e executar o programa.
 
 Ambiente de desenvolvimento como Visual Studio, Visual Studio Code ou outro IDE de sua preferência.
