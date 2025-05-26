@@ -85,7 +85,7 @@ Dentro de cada estrutura de dados, você poderá realizar as seguintes operaçõ
 Para realizar a pesquisa binária ou sequencial, você pode escolher a opção 6 no menu principal e informar o ID do paciente desejado.
 
 # Exemplo de Uso
-
+```csharp
 === Atendimento Médico ===
 1. Trabalhar com Vetores
 2. Trabalhar com Matrizes
@@ -108,7 +108,7 @@ Informe o nome do paciente: João Silva
 Paciente inserido com sucesso.
 
 Pressione qualquer tecla para continuar...
-
+```
 ## Funções Auxiliares
 
   LerPaciente()
