@@ -125,6 +125,4 @@ Após a execução de cada operação, o programa exibe a mensagem "Pressione qu
 
 Ambiente de desenvolvimento como Visual Studio, Visual Studio Code ou outro IDE de sua preferência.
 
-##Licença
-Este projeto está licenciado sob a MIT License, o que significa que você pode usá-lo, modificá-lo e distribuí-lo conforme suas necessidades.
 
