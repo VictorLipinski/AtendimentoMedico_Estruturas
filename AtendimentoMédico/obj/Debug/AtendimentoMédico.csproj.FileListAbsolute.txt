@@ -1,0 +1,7 @@
+C:\Users\Aluno\Downloads\AtendimentoMedico\AtendimentoMédico\AtendimentoMédico\bin\Debug\AtendimentoMédico.exe.config
+C:\Users\Aluno\Downloads\AtendimentoMedico\AtendimentoMédico\AtendimentoMédico\bin\Debug\AtendimentoMédico.exe
+C:\Users\Aluno\Downloads\AtendimentoMedico\AtendimentoMédico\AtendimentoMédico\bin\Debug\AtendimentoMédico.pdb
+C:\Users\Aluno\Downloads\AtendimentoMedico\AtendimentoMédico\AtendimentoMédico\obj\Debug\AtendimentoMédico.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\AtendimentoMedico\AtendimentoMédico\AtendimentoMédico\obj\Debug\AtendimentoMédico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\AtendimentoMedico\AtendimentoMédico\AtendimentoMédico\obj\Debug\AtendimentoMédico.exe
+C:\Users\Aluno\Downloads\AtendimentoMedico\AtendimentoMédico\AtendimentoMédico\obj\Debug\AtendimentoMédico.pdb
